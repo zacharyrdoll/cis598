@@ -7,3 +7,4 @@ Date  | Start Time  | End Time  | Interrupts  | Delta | Activity    | Comments
 2/28  | 10:30 PM    | 12:00 AM  | :10         | 1:20  | Learning AS | JSON, Progress Bars, view visibility
 3/3   | 8:30 PM     | 9:45 PM   | :20         | :55   | Learning AS | Refreshing data, loading views, etc.
 3/6   | 11:00 AM    | 11:30 AM  | :00         | :30   | Learning AS | Recycler Views
+3/8   | 9:30 PM     | 11:15 PM  | :15         | 1:30  | Learning AS | Recycler Views, adapters, onClick methods
